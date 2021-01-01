@@ -1,0 +1,44 @@
+{
+  "index_patterns": "risk_scores_*",
+  "settings": {
+    "index": {
+      "number_of_shards": 3,
+      "number_of_replicas": 2
+    }
+  },
+  "mappings": {
+    "doc": {
+      "properties": {
+        "id": {
+          "type": "keyword"
+        },
+        "entityHash": {
+          "type": "keyword"
+        },
+        "score": {
+          "type": "double"
+        },
+        "timestamp": {
+          "type": "date",
+          "format": "strict_date_optional_time||epoch_millis"
+        },
+        "entityName": {
+          "type": "text",
+          "fields": {
+            "raw": {
+              "type": "keyword"
+            }
+          }
+        },
+        "entityType": {
+          "type": "text",
+          "fields": {
+            "raw": {
+              "type": "keyword"
+            }
+          }
+        }
+      }
+    }
+  }
+}

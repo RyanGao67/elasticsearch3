@@ -1,0 +1,444 @@
+{
+  "interset": [
+    {
+      "entityHash": "f205b93295477d2f",
+      "timestamp": 1497585600000,
+      "score": 0.00724827623823,
+      "hasAnomalies": true,
+      "entityName": "sean@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "f205b93295477d2f",
+      "timestamp": 1497589200000,
+      "score": 0.00624827623823,
+      "hasAnomalies": true,
+      "entityName": "sean@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "f205b93295477d2f",
+      "timestamp": 1497592800000,
+      "score": 0.00534329875203494,
+      "hasAnomalies": true,
+      "entityName": "sean@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "f205b93295477d2f",
+      "timestamp": 1497596400000,
+      "score": 0.00501003074323746,
+      "hasAnomalies": true,
+      "entityName": "sean@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "644a34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1458079200000,
+      "score": 0.0552561682656,
+      "hasAnomalies": true,
+      "entityName": "nshazia@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "644a34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1458122400000,
+      "score": 0.10049429116864607,
+      "hasAnomalies": false,
+      "entityName": "nshazia@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "644a34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1457982000000,
+      "score": 0.14333865997692125,
+      "hasAnomalies": true,
+      "entityName": "nshazia@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "644a34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1457983200000,
+      "score": 0.14333865997692125,
+      "hasAnomalies": true,
+      "entityName": "nshazia@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "644a34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1458003600000,
+      "score": 0.13495050301001096,
+      "hasAnomalies": false,
+      "entityName": "nshazia@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "644a34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1458046800000,
+      "score": 0.12095948087461954,
+      "hasAnomalies": true,
+      "entityName": "nshazia@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "8e97e54f232d2a013a70fb339872dead",
+      "timestamp": 1457730000000,
+      "score": 0.00001,
+      "hasAnomalies": true,
+      "entityName": "jruhland@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "8e97e54f232d2a013a70fb339872dead",
+      "timestamp": 1457715600000,
+      "score": 0.0,
+      "hasAnomalies": false,
+      "entityName": "jruhland@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "9e1456a0f8b04e5056eda6a63535b137",
+      "timestamp": 1457492400000,
+      "score": 0.0168890992522983,
+      "hasAnomalies": true,
+      "entityName": "mdaigle@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "c3ddf996a919043ea5bd69bef2b9ae0e",
+      "timestamp": 1457967600000,
+      "score": 0.06416175231274054,
+      "hasAnomalies": true,
+      "entityName": "elavigne@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "c3ddf996a919043ea5bd69bef2b9ae0e",
+      "timestamp": 1458043200000,
+      "score": 0.03487447241726873,
+      "hasAnomalies": false,
+      "entityName": "elavigne@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "c3ddf996a919043ea5bd69bef2b9ae0e",
+      "timestamp": 1457974800000,
+      "score": 0.03288493344171701,
+      "hasAnomalies": false,
+      "entityName": "elavigne@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "c3ddf996a919043ea5bd69bef2b9ae0e",
+      "timestamp": 1458824400000,
+      "score": 0.022256084107299846,
+      "hasAnomalies": true,
+      "entityName": "elavigne@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "c3ddf996a919043ea5bd69bef2b9ae0e",
+      "timestamp": 1458010800000,
+      "score": 0.056872006592810595,
+      "hasAnomalies": false,
+      "entityName": "elavigne@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "c81a0d72b966edd7b1276cfa9d29c15c",
+      "timestamp": 1457971200000,
+      "score": 0.0,
+      "hasAnomalies": false,
+      "entityName": "pambikainathan@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "c81a0d72b966edd7b1276cfa9d29c15c",
+      "timestamp": 1457974800000,
+      "score": 0.0,
+      "hasAnomalies": false,
+      "entityName": "pambikainathan@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "a051a79dbb026b8ab09a1311a83959d7",
+      "timestamp": 1457967600000,
+      "score": 0.14122671900105505,
+      "hasAnomalies": true,
+      "entityName": "config.dbx",
+      "entityType": "fil"
+    },
+    {
+      "entityHash": "6b55545f4a04833a562825e7fb39e8b2",
+      "timestamp": 1457967600000,
+      "score": 0.12122671900105505,
+      "hasAnomalies": true,
+      "entityName": "instance.dbx",
+      "entityType": "fil"
+    },
+    {
+      "entityHash": "390f2b8d89b15773fc101f70745559ff",
+      "timestamp": 1457967600000,
+      "score": 0.08122671900105505,
+      "hasAnomalies": true,
+      "entityName": "app.xml",
+      "entityType": "fil"
+    },
+    {
+      "entityHash": "41e9accb4747f77078d671695107d564",
+      "timestamp": 1457967600000,
+      "score": 0.0710961217802237,
+      "hasAnomalies": true,
+      "entityName": "workspace.xml",
+      "entityType": "fil"
+    },
+    {
+      "entityHash": "8093bc0a5fa1d022bc8cd3765ae253f5",
+      "timestamp": 1458046800000,
+      "score": 0.15397647109205836,
+      "hasAnomalies": true,
+      "entityName": "Solid-State.local",
+      "entityType": "mac"
+    },
+    {
+      "entityHash": "8093bc0a5fa1d022bc8cd3765ae253f5",
+      "timestamp": 1458064800000,
+      "score": 0.15335906751312692,
+      "hasAnomalies": true,
+      "entityName": "Solid-State.local",
+      "entityType": "mac"
+    },
+    {
+      "entityHash": "8093bc0a5fa1d022bc8cd3765ae253f5",
+      "timestamp": 1458072000000,
+      "score": 0.1526949342174631,
+      "hasAnomalies": false,
+      "entityName": "Solid-State.local",
+      "entityType": "mac"
+    },
+    {
+      "entityHash": "64d7794788a116f964733524fa1486e1",
+      "timestamp": 1458212400000,
+      "score": 0.07573910252792339,
+      "hasAnomalies": true,
+      "entityName": "Emilies-MacBook-Pro.local",
+      "entityType": "mac"
+    },
+    {
+      "entityHash": "64d7794788a116f964733524fa1486e1",
+      "timestamp": 1458043200000,
+      "score": 0.07541750356666212,
+      "hasAnomalies": false,
+      "entityName": "Emilies-MacBook-Pro.local",
+      "entityType": "mac"
+    },
+    {
+      "timestamp": 1458176400000,
+      "score": 0.05643018139645487,
+      "hasAnomalies": true,
+      "entityName": "Pabis-MacBook-Pro.local",
+      "entityHash": "b9a8dbaa26c33ae0b58d34d5b1acf0a1",
+      "entityType": "mac"
+    },
+    {
+      "entityHash": "997jsa34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1486080000000,
+      "score": 0.12095948087461954,
+      "hasAnomalies": true,
+      "entityName": "jess@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "997jsa34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1486166400000,
+      "score": 0.14095948087461954,
+      "hasAnomalies": true,
+      "entityName": "jess@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "997jsa34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1497621600000,
+      "score": 0.07095948087461954,
+      "hasAnomalies": false,
+      "entityName": "jess@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "987a34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1486080000000,
+      "score": 0.12095948087461954,
+      "hasAnomalies": true,
+      "entityName": "wes@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "987a34e5d3e0d710b8ef04f15f82e9d7",
+      "timestamp": 1486166400000,
+      "score": 0.09095948087461954,
+      "hasAnomalies": false,
+      "entityName": "wes@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "bob1456a0f8b04e5056eda6a63535b137",
+      "timestamp": 1483401600000,
+      "score": 0.0168890992522983,
+      "hasAnomalies": true,
+      "entityName": "bob@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "bob1456a0f8b04e5056eda6a63535b137",
+      "timestamp": 1483488000000,
+      "score": 0.0168890992522983,
+      "hasAnomalies": true,
+      "entityName": "bob@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "kyle1456a0f8b04e5056eda6a63535b137",
+      "timestamp": 1483401600000,
+      "score": 0.0168890992522983,
+      "hasAnomalies": true,
+      "entityName": "kyle@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "kyle1456a0f8b04e5056eda6a63535b137",
+      "timestamp": 1483488000000,
+      "score": 0.0168890992522983,
+      "hasAnomalies": true,
+      "entityName": "kyle@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "fab111a388b7a9ef4c3718ccd61566adabbda4aa0003f198",
+      "timestamp": 1483401600000,
+      "score": 0.0168890992522983,
+      "hasAnomalies": true,
+      "entityName": "jay@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "fab111a388b7a9ef4c3718ccd61566adabbda4aa0003f198",
+      "timestamp": 1483488000000,
+      "score": 0.0168890992522983,
+      "hasAnomalies": false,
+      "entityName": "jay@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "graph1a388b7a9ef4c3718ccd61566adabbda4aa0003f198",
+      "timestamp": 1488412800000,
+      "score": 0.5108890992522983,
+      "hasAnomalies": true,
+      "entityName": "graphx@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "graph1a388b7a9ef4c3718ccd61566adabbda4aa0003f198",
+      "timestamp": 1488416400000,
+      "score": 0.5008890992522983,
+      "hasAnomalies": true,
+      "entityName": "graphx@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "graph1a388b7a9ef4c3718ccd61566adabbda4aa0003f198",
+      "timestamp": 1488420000000,
+      "score": 0.4908890992522983,
+      "hasAnomalies": false,
+      "entityName": "graphx@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "entityHash": "graph1a388b7a9ef4c3718ccd61566adabbda4aa0003f198",
+      "timestamp": 1488423600000,
+      "score": 0.4808890992522983,
+      "hasAnomalies": true,
+      "entityName": "graphx@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "timestamp": 1457996400000,
+      "score": 0.05643018139645487,
+      "entityName": "Pabis-MacBook-Pro.local",
+      "hasAnomalies": true,
+      "entityHash": "b9a8dbaa26c33ae0b58d34d5b1acf0a1",
+      "entityType": "mac"
+    },
+    {
+      "timestamp": 1457996400000,
+      "score": 0.07573910252792339,
+      "hasAnomalies": true,
+      "entityHash": "64d7794788a116f964733524fa1486e1",
+      "entityName": "Emilies-MacBook-Pro.local",
+      "entityType": "mac"
+    },
+    {
+      "timestamp": 1457996400000,
+      "entityHash": "c3ddf996a919043ea5bd69bef2b9ae0e",
+      "score": 0.022256084107299846,
+      "hasAnomalies": true,
+      "entityName": "elavigne@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "timestamp": 1458082800000,
+      "score": 0.06843018139645487,
+      "hasAnomalies": false,
+      "entityName": "Pabis-MacBook-Pro.local",
+      "entityHash": "b9a8dbaa26c33ae0b58d34d5b1acf0a1",
+      "entityType": "mac"
+    },
+    {
+      "timestamp": 1458082800000,
+      "score": 0.1273910252792339,
+      "hasAnomalies": true,
+      "entityHash": "64d7794788a116f964733524fa1486e1",
+      "entityName": "Emilies-MacBook-Pro.local",
+      "entityType": "mac"
+    },
+    {
+      "timestamp": 1458082800000,
+      "entityHash": "c3ddf996a919043ea5bd69bef2b9ae0e",
+      "score": 0.057256084107299846,
+      "hasAnomalies": false,
+      "entityName": "elavigne@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "timestamp": 1458165600000,
+      "score": 0.1443018139645487,
+      "hasAnomalies": true,
+      "entityName": "Pabis-MacBook-Pro.local",
+      "entityHash": "b9a8dbaa26c33ae0b58d34d5b1acf0a1",
+      "entityType": "mac"
+    },
+    {
+      "timestamp": 1458165600000,
+      "score": 0.13573910252792339,
+      "hasAnomalies": true,
+      "entityHash": "64d7794788a116f964733524fa1486e1",
+      "entityName": "Emilies-MacBook-Pro.local",
+      "entityType": "mac"
+    },
+    {
+      "timestamp": 1458165600000,
+      "entityHash": "c3ddf996a919043ea5bd69bef2b9ae0e",
+      "score": 0.071524567456299846,
+      "hasAnomalies": true,
+      "entityName": "elavigne@interset.com",
+      "entityType": "usr"
+    },
+    {
+      "timestamp": 1497621600000,
+      "entityHash": "26c33ae0b58d34d5b1acf0a1",
+      "score": 0.041524567456299846,
+      "hasAnomalies": true,
+      "entityName": "\\\\share_6\\projects\\analytics",
+      "entityType": "shr"
+    }
+  ]
+}
